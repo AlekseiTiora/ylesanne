@@ -1,4 +1,4 @@
 Graphics defined by SVG is in which format?
 1.CSS
 2.HTML
-3.XML + 
+3.XML 
