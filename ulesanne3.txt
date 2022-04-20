@@ -1,5 +1,5 @@
 ﻿Täitke SQL-päring, lisage tingimus, et loomade tabelist kuvatakse ainult loomad,
 kelle nimi (nimi) algab V-ga.
 
-SELECT * FROM loomad
-WHERE nimi like "A%"
+SELECT * FROM ...
+WHERE ...
