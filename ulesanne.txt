@@ -3,3 +3,5 @@ HTML-elementi kasutatakse selleks, et:
 2.manipulate data in MySQL
 3.display database records
 4.draw graphics 
+
+(No correct answer)
