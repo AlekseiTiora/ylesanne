@@ -1,4 +1,4 @@
-HTML-elementi kasutatakse selleks, et:
+HTML-elementi kasutatakse selleks, et :
 1.create draggable elements
 2.manipulate data in MySQL
 3.display database records
